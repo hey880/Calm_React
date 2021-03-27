@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Calm_React/static/css/main.1f3cec4d.chunk.css",
+    "main.js": "/Calm_React/static/js/main.fb29210f.chunk.js",
+    "main.js.map": "/Calm_React/static/js/main.fb29210f.chunk.js.map",
+    "runtime-main.js": "/Calm_React/static/js/runtime-main.08fbc7cf.js",
+    "runtime-main.js.map": "/Calm_React/static/js/runtime-main.08fbc7cf.js.map",
+    "static/js/2.1d836965.chunk.js": "/Calm_React/static/js/2.1d836965.chunk.js",
+    "static/js/2.1d836965.chunk.js.map": "/Calm_React/static/js/2.1d836965.chunk.js.map",
+    "index.html": "/Calm_React/index.html",
+    "static/css/main.1f3cec4d.chunk.css.map": "/Calm_React/static/css/main.1f3cec4d.chunk.css.map",
+    "static/js/2.1d836965.chunk.js.LICENSE.txt": "/Calm_React/static/js/2.1d836965.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Calm_React/static/media/back.d73e3b6e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08fbc7cf.js",
+    "static/js/2.1d836965.chunk.js",
+    "static/css/main.1f3cec4d.chunk.css",
+    "static/js/main.fb29210f.chunk.js"
+  ]
+}
