@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Calm_React/static/css/main.1f3cec4d.chunk.css",
-    "main.js": "/Calm_React/static/js/main.fb29210f.chunk.js",
-    "main.js.map": "/Calm_React/static/js/main.fb29210f.chunk.js.map",
+    "main.js": "/Calm_React/static/js/main.d0ed5b68.chunk.js",
+    "main.js.map": "/Calm_React/static/js/main.d0ed5b68.chunk.js.map",
     "runtime-main.js": "/Calm_React/static/js/runtime-main.08fbc7cf.js",
     "runtime-main.js.map": "/Calm_React/static/js/runtime-main.08fbc7cf.js.map",
     "static/js/2.1d836965.chunk.js": "/Calm_React/static/js/2.1d836965.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.08fbc7cf.js",
     "static/js/2.1d836965.chunk.js",
     "static/css/main.1f3cec4d.chunk.css",
-    "static/js/main.fb29210f.chunk.js"
+    "static/js/main.d0ed5b68.chunk.js"
   ]
 }
